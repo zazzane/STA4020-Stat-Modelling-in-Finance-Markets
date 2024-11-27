@@ -12,6 +12,7 @@ statsmodels = "^0.14.2"
 ipykernel = "^6.29.5"
 notebook = "^7.2.2"
 seaborn = "^0.13.2"
+scikit-learn = "^1.5.2"
 
 
 [build-system]
